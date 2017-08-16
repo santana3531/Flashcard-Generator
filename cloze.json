@@ -1,0 +1,18 @@
+[
+  {
+    "partial": "Eli Manning is the Qb for the New York Giants.",
+    "cloze": "Eli"
+  },
+  {
+    "partial": "The New York Giants have won 4 Super Bowls",
+    "cloze": "4"
+  },
+  {
+    "partial": "Odell Beckham Jr. has more Rec Yards and Rec TDs than any other WR since 2014",
+    "cloze": "Odell Beckham"
+  },
+  {
+    "partial": "In 2007, Michael Strahan won his first, and only, Super Bowl",
+    "cloze": "2007"
+  }
+]
